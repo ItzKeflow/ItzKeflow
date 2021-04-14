@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItzKeflow
 - 👀 I am currently working on Discord bots etc. ...
 - 🌱 Don't talk to me about anime xD...
-
+- 🌴 my'discord: https://discord.gg/795cd39HXJ
 
 <!---
 ItzKeflow/ItzKeflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
