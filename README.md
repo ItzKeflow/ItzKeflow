@@ -2,8 +2,8 @@
 
 - 🔭 Solo soy un novato!
 - 🌱 Actualmente estoy leyendo todo🤣
-- 👯 Partner: FiveM QBCore / Esx
-- 🥅 2021-2022 Metas: Constribuir a proyectos de inportancias..
+- 👯 Fivem dev: QBCore / Esx
+- 🥅 2021-2022 Metas: Constribuir a proyectos de importancia..
 
 ### Conexiones:
 
