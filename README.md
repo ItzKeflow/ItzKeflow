@@ -4,8 +4,6 @@
 - 🌱 Actualmente estoy leyendo todo🤣
 - 👯 Fivem dev: QBCore / Esx
 - 🥅 2021-2022 Metas: Constribuir a proyectos de importancia..
-- - Soon : [<img align="left" alt="codeSTACKr | " width="22px" src="https://imgur.com/undefined" />]
-
 ### Conexiones:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
