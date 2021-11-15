@@ -1,11 +1,13 @@
 ## Informacion : 
 
-- 🔭 Solo soy un novato!
-- 🌱 Actualmente estoy leyendo todo🤣
-- 👯 Fivem dev: QBCore / Esx
+- 🔭 Hola!
+- 🌱 Actualmente Me gusta programar!
+- 👯 Me gusta el color verde menta :)
 - 🥅 2021-2022 Metas: Constribuir a proyectos de importancia..
-- 🧃 Soon:
+- 🧃 Coming Realeses:
 - ![Screenshot 2021-11-14 071106](https://i.imgur.com/YLXAbzV.png)
+- ![Screenshot 2021-11-14 071106](https://i.imgur.com/uhzLtZ1.png)
+
 
 ### Conexiones:
 
