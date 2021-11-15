@@ -4,7 +4,7 @@
 - 🌱 Actualmente estoy leyendo todo🤣
 - 👯 Fivem dev: QBCore / Esx
 - 🥅 2021-2022 Metas: Constribuir a proyectos de importancia..
-- ![Screenshot 2021-11-14 071106](https://imgur.com/YLXAbzV)
+- ![Screenshot 2021-11-14 071106](https://i.imgur.com/YLXAbzV.png)
 
 ### Conexiones:
 
