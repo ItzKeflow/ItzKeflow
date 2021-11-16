@@ -1,15 +1,14 @@
-## Informacion : 
+## Information : 
 
-- 🔭 Hola!
-- 🌱 Actualmente Me gusta programar!
-- 👯 Me gusta el color verde menta :)
-- 🥅 2021-2022 Metas: Constribuir a proyectos de importancia..
-- 🧃 Coming Realeses:
+- 🔭 Hello!
+- 👯 I like the color mint green :)
+- 🥅 2021-2022 Goals: Contribute to projects of importance....
+- 🧃 Upcoming:
 - ![Screenshot 2021-11-14 071106](https://i.imgur.com/YLXAbzV.png)
 - ![Screenshot 2021-11-14 071106](https://i.imgur.com/uhzLtZ1.png)
 
 
-### Conexiones:
+### Conexions:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
@@ -28,12 +27,12 @@
 
 ---
 
-### 📺 Ultimos Videos
+### 📺 Last Videos
 
 
 - [#KeF - Jugando En El Calenton RP 🧃](https://www.youtube.com/watch?v=bg5y3AJVdjY&t=33s)
 
-➡️ [Mas videos...](https://www.youtube.com/channel/UCUn4AGq8VAgG3HhlGqEaNzg)
+➡️ [More videos...](https://www.youtube.com/channel/UCUn4AGq8VAgG3HhlGqEaNzg)
 
 ---
 
@@ -45,7 +44,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Comento en  [#1](https://github.com/qbcore-framework/qb-core) in [codeSTACKr/portfolio-sass](https://github.com/qbcore-framework/qb-core)
 
 </details>
 
