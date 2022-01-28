@@ -1,7 +1,7 @@
 ## Information : 
 
 - 🔭 Hello!
-- 👯 I like the color mint green :)
+- 👯 I like the color red and mint green :)
 - 🥅 2021-2022 Goals: Contribute to projects of importance....
 - 🧃 Upcoming:
 - ![Screenshot 2021-11-14 071106](https://i.imgur.com/YLXAbzV.png)
