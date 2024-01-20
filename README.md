@@ -6,7 +6,7 @@
 - 🧃 Upcoming:
 - ![Screenshot 2021-11-14 071106](https://i.imgur.com/YLXAbzV.png)
 - ![Screenshot 2021-11-14 071106](https://i.imgur.com/uhzLtZ1.png)
-![Uploading image.png…]()
+
 
 
 
