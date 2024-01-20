@@ -7,6 +7,8 @@
 - ![Screenshot 2021-11-14 071106](https://i.imgur.com/YLXAbzV.png)
 - ![Screenshot 2021-11-14 071106](https://i.imgur.com/uhzLtZ1.png)
 
+- 🍒 Realeased:
+![image](https://github.com/ItzKeflow/ItzKeflow/assets/82485300/46d4d622-4ff0-4aba-a459-c0a8f58efa71)
 
 
 
